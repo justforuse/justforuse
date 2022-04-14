@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=justforuse)
+
 ### Hi there 👋
 
 ![Allen's github stats](https://github-readme-stats.vercel.app/api?username=justforuse&show_icons=true&icon_color=0078e7&title_color=0078e7)
