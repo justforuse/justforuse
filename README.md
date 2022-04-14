@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://skillicons.dev/icons?i=html,css,js,ts,sass,vue,react,nodejs,git,gitlab,vscode)
