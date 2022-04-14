@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://raw.githubusercontent.com/justforuse/justforuse/output/github-snake.svg)
+
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,sass,vue,react,nodejs,git,gitlab,vscode)
